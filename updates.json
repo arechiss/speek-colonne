@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "speek-colonne@local": {
+      "updates": [
+        {
+          "version": "1.5.1",
+          "update_link": "https://raw.githubusercontent.com/arechiss/speek-colonne/main/speek-colonne-1.5.1.xpi",
+          "update_hash": "sha256:e6793c2067ffef9a27a1b9ac687a1abbd03ea4353ac38c66cf77c6c46a86fbae"
+        }
+      ]
+    }
+  }
+}
