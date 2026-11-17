@@ -6,6 +6,11 @@
           "version": "1.5.1",
           "update_link": "https://raw.githubusercontent.com/arechiss/speek-colonne/main/speek-colonne-1.5.1.xpi",
           "update_hash": "sha256:e6793c2067ffef9a27a1b9ac687a1abbd03ea4353ac38c66cf77c6c46a86fbae"
+        },
+        {
+          "version": "1.5.2",
+          "update_link": "https://raw.githubusercontent.com/arechiss/speek-colonne/main/speek-colonne-1.5.2.xpi",
+          "update_hash": "sha256:10844e2816dfa6934e744d03990928a0b3abdc0a2f2ac448f9ab26bba0aedc8b"
         }
       ]
     }
